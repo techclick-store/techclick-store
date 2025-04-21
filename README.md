@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ola seja bem vindo!  👋
 
 <!--
 **techclick-store/techclick-store** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
